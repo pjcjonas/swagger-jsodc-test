@@ -1,0 +1,20 @@
+{
+	"openapi": "3.0.0",
+	"info": {
+		"title": "Hello World",
+		"description": "A sample API",
+		"version": "1.0.0"
+	},
+	"paths": {
+		"/": {
+			"get": {
+				"description": "QQQQ Welcome to swagger-jsdoc!",
+				"responses": {
+					"200": { "description": "Returns a mysterious string." }
+				}
+			}
+		}
+	},
+	"components": {},
+	"tags": []
+}
